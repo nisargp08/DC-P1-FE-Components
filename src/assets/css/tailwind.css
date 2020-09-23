@@ -1,3 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&family=Poppins:wght@500&family=Ubuntu+Mono&display=swap");
+
 @tailwind base;
 @tailwind components;
+
+.heading {
+  @apply font-poppins font-medium text-2xl leading-9 text-gray-2;
+}
+.sidebar-link {
+  @apply text-sm text-gray-1 font-medium;
+}
+.code {
+  @apply font-ubuntu font-normal text-xs leading-3 text-gray-4 mb-3;
+}
+.row {
+    @apply flex items-center justify-between my-6 
+}
 @tailwind utilities;
