@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://wonderful-banach-32a1eb.netlify.app/">
+    <a href="https://wonderful-banach-32a1eb.netlify.app/buttons">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/nisargp08/DC-P1-FE-Components/blob/master/src/components/Buttons.vue">
+    <a href="https://github.com/nisargp08/DC-P1-FE-Components/blob/master/src/views/Buttons.vue">
       Solution
     </a>
     <span> | </span>
